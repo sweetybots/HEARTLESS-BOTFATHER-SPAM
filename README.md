@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/6d74a785d1432b2cb7ebc.jpg">
+  <img src="https://telegra.ph/file/7f2ba80ee21f26fd2fa20.jpg">
 </p>
 
 
@@ -15,20 +15,20 @@
 ----
 
 ## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
-<p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/network/members"><img src="https://img.shields.io/github/forks/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/stargazers"><img src="https://img.shields.io/github/stars/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?"><img src="https://img.shields.io/github/last-commit/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?style=plastic"></
+<p align="left"><a href="https://github.com/sweetybots/HEARTLESS-BOTFATHER-SPAM/network/members"><img src="https://img.shields.io/github/forks/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/stargazers"><img src="https://img.shields.io/github/stars/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?"><img src="https://img.shields.io/github/last-commit/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?style=plastic"></
 
 -------------------------------------------------
 
 ## Sᴜᴘᴘᴏʀᴛ 
                           
-<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Savage_Bot_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/STAR_BOY_KA_ADDA"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/ABOUT_STAR_BOY"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-## Oᴡɴᴇʀ -[Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/OFFICIAL_SAMEER)
+## Oᴡɴᴇʀ -[STAR BOY](https://t.me/ITZ_STAR_BOY)
 -------------------------------------------------
 
 ## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sweetybots/HEARTLESS-BOTFATHER-SPAM.git)
 ------------------------------------------------
 
